@@ -13,7 +13,6 @@
 
 [gimmick:theme](spacelab)
 [gimmick: math]()
-[gimmick:themechooser](Choose theme)
 
 <!--
   -- Navigation
@@ -23,6 +22,7 @@
 [About](pages/about.md)
 [Download](pages/download.md)
 [Superoscilaciones](pages/super.md)
+[gimmick:themechooser](Selecciona Tema)
 
 <!-- A more complex navigation example: ----------------------------------------
 

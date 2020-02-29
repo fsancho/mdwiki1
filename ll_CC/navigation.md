@@ -13,8 +13,6 @@
 
 [gimmick:theme](spacelab)
 
-[gimmick: math]()
-
 
 <!--
   -- Navigation
@@ -23,6 +21,7 @@
 
 [About](pages/about.md)
 [Download](pages/download.md)
+[Superoscilaciones](pages/super.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 

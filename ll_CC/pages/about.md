@@ -11,6 +11,10 @@ Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dol
 
 $a^x$
 
+$$a^x$$
+
+$$$a^x$$$
+
 
 ## Section 2
 

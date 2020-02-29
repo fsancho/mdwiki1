@@ -3,7 +3,7 @@
 
 **Definición 3.1.1.** Una sucesión generalizada de Fourier es una sucesión de la forma: 
 
-$$Y_{ n , a }(x) =\sum_{ j = 0 }^n  C_j(n , a) \exp(i k_j (n) x)$$
+`$$Y_{ n , a }(x) =\sum_{ j = 0 }^n  C_j(n , a) \exp(i k_j (n) x) $$`
 
 donde $a>0$, $n\in \mathbb N$ y los $C_j(n,a),k_j(n)$ son números reales.
 
@@ -42,7 +42,7 @@ $$
 
 1. $\displaystyle \lim_{n\to +\infty}F_n(x,a)=\exp(iax)$ para todo $x\in\mathbb R$.
 
-2. $\displaystyle F_n(x,a)=\sum_{j=0}^n C_j(n,a)\exp(i(1-2j/n)x)$ donde los coeficientes de Fourier $C_j(n,a)$ vienen dados por la fórmula
+2. $\displaystyle F_n(x,a)=\sum_{j=0}^n C_j(n,a)\exp(i(1-2j/n)x)$, donde los coeficientes de Fourier $C_j(n,a)$ vienen dados por la fórmula
    $$
    C_j(n,a)=\frac{(-1)^j}{2^n}\binom{n}{j}(a+1)^{n-j}(a-1)^j.
    $$

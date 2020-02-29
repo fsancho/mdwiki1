@@ -1,9 +1,7 @@
 [gimmick: math]()
 # 3.1 Sucesiones superoscilantes
 
-**Definición 3.1.1.** Una sucesión generalizada de Fourier es una sucesión de la forma siguiente:
-$$Y_{n,a}(x)=\sum_{j=0}^n C_j(n,a)\exp(ik_j(n)x)$$
-donde $a>0$, $n\in \mathbb N$ y los $C_j(n,a),k_j(n)$ son números reales.
+**Definición 3.1.1.** Una sucesión generalizada de Fourier es una sucesión de la forma siguiente: $$Y_{n,a}(x)=\sum_{j=0}^n C_j(n,a)\exp(ik_j(n)x)$$ donde $a>0$, $n\in \mathbb N$ y los $C_j(n,a),k_j(n)$ son números reales.
 
 **Comentario 3.1.2.** Una sucesión de sumas parciales de Fourier es un caso particular.
 
@@ -16,11 +14,7 @@ Obviamente una sucesión de sumas parciales de Fourier no es superoscilante pues
 
 Se puede considerar un escenario diferente.
 
-**Definición 3.1.4.** Sea $\displaystyle f(x)= \sum_{j=0}^\infty d_j\exp(ia_jx)$ donde $a_j,d_j\in\mathbb R$ para todo $j=0,1,\dots$. Diremos que la sucesión 
-$$
-S_n(x)=\sum_{j=0}^n C_j(n)\exp(ik_j(n)x)
-$$
-con $C_j(n),k_j(n)\in\mathbb R$ es $f$-superoscilante si existe un índice $J$ de modo que $\displaystyle \sup_{n,j}|k_j(n)|<a_J$ y además la sucesión $(S_n(x))$ convergen uniformemente a $f$ en algún conjunto compacto no vacío de $\mathbb R$.
+**Definición 3.1.4.** Sea $f(x)= \sum_{j=0}^\infty d_j\exp(ia_jx)$ donde $a_j,d_j\in\mathbb R$ para todo $j=0,1,\dots$. Diremos que la sucesión $$S_n(x)=\sum_{j=0}^n C_j(n)\exp(ik_j(n)x)$$ con $C_j(n),k_j(n)\in\mathbb R$ es $f$-superoscilante si existe un índice $J$ de modo que $\sup_{n,j}|k_j(n)|<a_J$ y además la sucesión $(S_n(x))$ convergen uniformemente a $f$ en algún conjunto compacto no vacío de $\mathbb R$.
 
 **Comentario 3.1.5.** Me lo salto. No entiendo bien lo que quiere decir.
 

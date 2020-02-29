@@ -13,6 +13,7 @@
 
 [gimmick:theme](spacelab)
 [gimmick: math]()
+[gimmick:themechooser](Choose theme)
 
 <!--
   -- Navigation

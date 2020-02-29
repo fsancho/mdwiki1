@@ -34,7 +34,7 @@ simplemente poniendo a $\cos(x/n)$ y $\sin(x/n)$ en términos de la exponencial 
 $$
 \cos(\theta)=\frac{\exp(i\theta)+\exp(-i\theta)}{2}, \,\, \sin(\theta)=\frac{\exp(i\theta)-\exp(-i\theta)}{2i}
 $$
-**Teorema 3.1.7.** Sea $a>1$. Sea $n\in\mathbb N$. Consideremos $\displaystyle F_n(x,a)=\left(\cos(x/n)+ia\sin(x/n)\right)^n$. 
+**Teorema 3.1.7.** Sea $a>1$. Sea $n\in\mathbb N$. Consideremos $F_n(x,a)=\left(\cos(x/n)+ia\sin(x/n)\right)^n$. 
 
 1. $\displaystyle \lim_{n\to +\infty}F_n(x,a)=\exp(iax)$ para todo $x\in\mathbb R$.
 

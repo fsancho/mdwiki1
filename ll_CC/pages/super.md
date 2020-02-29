@@ -2,7 +2,7 @@
 # 3.1 Sucesiones superoscilantes
 
 **Definición 3.1.1.** Una sucesión generalizada de Fourier es una sucesión de la forma: 
-$$ Y_{ n,a }(x)=\sum_{ j=0 }^n  C_j(n,a) \exp(i k_j(n)x) $$ 
+$$ Y_{ n,a }(x)$$, $$=\sum_{ j=0 }^n  C_j(n,a) \exp(i k_j(n)x) $$ 
 donde $a>0$, $n\in \mathbb N$ y los $C_j(n,a),k_j(n)$ son números reales.
 
 **Comentario 3.1.2.** Una sucesión de sumas parciales de Fourier es un caso particular.

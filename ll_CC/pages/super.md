@@ -7,7 +7,7 @@ donde $a>0$, $n\in \mathbb N$ y los $C_j(n,a),k_j(n)$ son números reales.
 
 **Comentario 3.1.2.** Una sucesión de sumas parciales de Fourier es un caso particular.
 
-**Definición. 3.1.3.** Sean $a>0,\alpha>0$. Una sucesión generalizada de Fourier $(Y_n(x))$  como la de la definición 3.1.1. se dice superoscilante si
+**Definición. 3.1.3.** Sean $a>0$ y $\alpha>0$. Una sucesión generalizada de Fourier $(Y_n(x))$  como la de la definición 3.1.1. se dice superoscilante si
 
 1. $|k_j(n)|\leq \alpha$ para todo $n$ y para todo $j$.
 2. Existe un compacto $K\subset \mathbb R$ no vacío,  que llamaremos conjunto de superoscilación, de modo que $Y_n(x)\to \exp(ig(a)x)$ uniformemente en $K$, donde $g(a)$ es una función continua de $a$ tal que $|g(a)|≥\alpha$. 

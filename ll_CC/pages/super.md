@@ -1,3 +1,4 @@
+[gimmick: math]()
 # 3.1 Sucesiones superoscilantes
 
 **Definición 3.1.1.** Una sucesión generalizada de Fourier es una sucesión de la forma siguiente:
